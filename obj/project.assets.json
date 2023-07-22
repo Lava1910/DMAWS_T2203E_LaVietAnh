@@ -3932,11 +3932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Exam_Project\\Exam_Project.csproj",
-      "projectName": "Exam_Project",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Exam_Project\\Exam_Project.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DMAWS_T2203E_LaVietAnh\\DMAWS_T2203E_LaVietAnh.csproj",
+      "projectName": "DMAWS_T2203E_LaVietAnh",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\DMAWS_T2203E_LaVietAnh\\DMAWS_T2203E_LaVietAnh.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Exam_Project\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\DMAWS_T2203E_LaVietAnh\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
